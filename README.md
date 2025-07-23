@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 
 🚀 Electronics & Communication Engineering Student  
-🛠️ Full Stack Developer | 🔐 Aspiring Cybersecurity & DevSecOps Engineer  
+🛠️ Backend & Frontend Dev | 🔐 Cybersecurity Enthusiast  
+🧘‍♂️ Spiritually aligned | 🧠 Lifelong Learner | 🧬 DevSecOps Explorer  
 
 
 ---
