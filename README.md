@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🚀 Electronics & Communication Engineering Student  
 🛠️ Full Stack Developer | 🔐 Aspiring Cybersecurity & DevSecOps Engineer  
-🧘‍♂️ Spiritually Rooted Follower of Sanatan Dharma
+
 
 ---
 
