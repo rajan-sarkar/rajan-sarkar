@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🌐 Building automation systems & working on RF + IoT for space projects  
 - 💡 Interested in AI/ML, DevSecOps, and Raspberry Pi  
 - 🔭 Currently exploring **DevSecOps with AI/ML** (6-month roadmap)  
-- ☀️ Spiritual belief: **Satyam Shivam Sundaram** — Truth, Consciousness & Bliss
+<!--- ☀️ Spiritual belief: **Satyam Shivam Sundaram** — Truth, Consciousness & Bliss-->
 
 ---
 
