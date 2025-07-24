@@ -81,21 +81,21 @@ Here are some ideas to get you started:
 
 ---
 
-<!--## 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajan-sarkar&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajan-sarkar&layout=compact&theme=radical)
 
 > Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.>
 
 ---
 
-<!--## 📌 Highlight Repositories
+## 📌 Highlight Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_NAME)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_NAME)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajan-sarkar&repo=ecommerce)](https://github.com/rajan-sarkar/ecommerce)
 
---->
+
 
 ## 📫 Let's Connect
 
@@ -107,12 +107,12 @@ Here are some ideas to get you started:
 
 ## 🕉️ Philosophy
 
-> "The mind is everything. What you think, you become." — Bhagavad Gita  
+ "The mind is everything. What you think, you become." — Bhagavad Gita  
 
 
 
 
----
+
 
 🌟 *Built with passion. Guided by Dharma. Powered by curiosity.*
 
