@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 
 ## 📌 Highlight Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajan-sarkar&repo=ecommerce)](https://github.com/rajan-sarkar/ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajan-sarkar&repo=credit_card_detction_ml )](https://github.com/rajan-sarkar/credit_card_detction_ml )
 
 
 
