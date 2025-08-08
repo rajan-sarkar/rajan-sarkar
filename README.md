@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajan-pandey-145802201/)  
 <!-- [![Portfolio](https://img.shields.io/badge/-My_Portfolio-000?style=flat&logo=github)](https://your-portfolio-link.com)  -->
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajanpandey492222@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rajanpandey492222@gmail.com)
 
 ---
 
