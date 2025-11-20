@@ -93,7 +93,8 @@ Here are some ideas to get you started:
 
 ## 📌 Highlight Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajan-sarkar&repo=credit_card_detction_ml )](https://github.com/rajan-sarkar/credit_card_detction_ml )
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajan-sarkar&repo=Cyber-Watchdog-Agent)](https://github.com/rajan-sarkar/Cyber-Watchdog-Agent)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajan-sarkar&repo=India-Accelerator-OpenXAI-2025)](https://github.com/rajan-sarkar/India-Accelerator-OpenXAI-2025/tree/main/Multilingual_ChatBot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajan-sarkar&repo=People_counting-moving_left-right)](https://github.com/rajan-sarkar/People_counting-moving_left-right.git)
 
 
