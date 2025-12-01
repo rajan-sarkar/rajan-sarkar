@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 🚀 Electronics & Communication Engineering Student  
-🛠️ Backend & Frontend Dev | 🔐 Cybersecurity Enthusiast  
+🛠️ Backend & Frontend Dev | AI/ML and  Cybersecurity Enthusiast  
 🧘‍♂️ Spiritually aligned | 🧠 Lifelong Learner | 🧬 DevSecOps Explorer  
 
 
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📈 GitHub Stats
+<!--- ## 📈 GitHub Stats
 
 ![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajan-sarkar&show_icons=true&theme=radical)
 
@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajan-sarkar&repo=India-Accelerator-OpenXAI-2025)](https://github.com/rajan-sarkar/India-Accelerator-OpenXAI-2025/tree/main/Multilingual_ChatBot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rajan-sarkar&repo=People_counting-moving_left-right)](https://github.com/rajan-sarkar/People_counting-moving_left-right.git)
 
-
+--->
 
 ## 📫 Let's Connect
 
